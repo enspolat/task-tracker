@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "adasd",
+      "day": "213",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "qwewer",
+      "day": "pazartesi saat5",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "enes",
+      "day": "saat 4",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "markete gidilcek",
+      "day": "pazartesi 4",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "id": "Fri Mar 04 2022 18:20:45 GMT+0300 (GMT+03:00)",
+      "text": "adad",
+      "day": "123",
+      "reminder": false
+    },
+    {
+      "id": "Fri Mar 04 2022 18:22:20 GMT+0300 (GMT+03:00)",
+      "text": "deneme1",
+      "day": "pzt",
+      "reminder": false
+    }
+  ]
+}
